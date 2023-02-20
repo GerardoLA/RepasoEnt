@@ -1,2 +1,4 @@
 estoy agregando texto...
 linea2
+linea3 vuelvo a meter lineas que en un commit posterior
+ voy a eliminar y después quiero recuperar con  un  git log, copiar e commit al que quiero volver y hacerlo con un checkout
