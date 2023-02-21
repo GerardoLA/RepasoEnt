@@ -1,2 +1,36 @@
 estoy agregando texto...
 linea2
+estoy agregando texto...
+linea2
+
+git init
+
+git config --global user.name "usuario"
+git config --global user.email "usuario@gmail.com"
+	para verificar
+
+git config user.name
+git config user.email
+
+git add ejercicio1 (para llevarlo a stage)
+git commit ejecicio1 (para subirlo al repositorio LOCAL)
+
+git status (para saber el estado..si hay commits por hacer o modificaciones)
+git log (muestra los commits hechos y quien los hizo y direccion)
+
+hecho el repositorio en github
+
+git remote add origin https://github.com/usuario/repositorioA.git
+	Así los commits se hacen al repositorio.
+
+git remote -v
+nos dice si se puede hacer git push y git fetch
+
+git push origin master
+	subir el archivo al repositorio remoto en github
+
+clonar repositorio
+copiada la direccion del repositorio:
+	git clone https:/github.com/usuario/archivo.git
+
+ 	WQ PARA SALIR CUANDO SE BUGUEA!
